@@ -8,6 +8,7 @@ to see website, visit https://afternoon-mesa-89189.herokuapp.com/
 
 
 # Getting Started
+first clone this repository
 ```
-git
+git clone
 ```

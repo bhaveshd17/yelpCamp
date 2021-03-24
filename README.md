@@ -17,9 +17,7 @@ git clone https://github.com/bhaveshd17/yelpCamp.git
 - install npm dependancies
 ```
 npm install 
-```
 or
-```
 npm i
 ```
 
